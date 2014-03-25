@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = 'MIT'
 
   s.author       = { "Esteban Garro" => "e.garro@mademediacorp.com" }
-  s.source       = { :git => "https://github.com/egarro/socket.IO-objc.git", :tag => 'v0.5.2' }
+  s.source       = { :git => "https://github.com/egarro/socket.IO-objc.git", :tag => 'v0.5.2.1' }
 
   s.source_files = '*.{h,m}'
 
